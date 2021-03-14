@@ -22,7 +22,7 @@ export default function CallToActionWithAnnotation() {
                         fontWeight={600}
                         fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
                         lineHeight={'110%'}>
-                        The First <Text color={'purple.400'}>NFT Wallet</Text>
+                        Time <Text color={'purple.400'}>Machine</Text>
                     </Heading>
                     <Stack
                         direction={'column'}
